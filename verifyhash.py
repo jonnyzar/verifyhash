@@ -1,3 +1,13 @@
+"""
+Please use this tool for checking any files that you download.
+And have fun coding!
+Please e-mail me if anything goes wrong.
+
+Mail: yan.zaripov@gmail.com
+
+Author: Yan Zaripov
+"""
+
 import argparse
 import hashlib
 
