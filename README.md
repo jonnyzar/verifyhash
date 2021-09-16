@@ -1,4 +1,5 @@
-# verifyhash
+<h1>Check file hash</h1>
+
 Quick verification of correspondance of a file to its hash.
 
 The idea is to have a quick script ready to be used after downloading some file.
