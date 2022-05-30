@@ -45,9 +45,9 @@ def hashfile(srcFilePath, hashType, BLOCK_SIZE=65536):
     :param srcFilePath: path to the file from which the reference
     hash is supposed to originate from
     :param hashType: hash type to use
-    :param BLOCK_SIZE: use to avoid buffer overflow;
+    :param BLOCK_SIZE:
     default is 65536; change to any other size using power of 2
-    :return: sting with decimal hash characters
+    :return: string with decimal hash characters
     """
 
     # hash the source file according to hash type, BLOCKSIZE is to avoid buffer overflow
